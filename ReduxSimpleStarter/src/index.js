@@ -1,3 +1,6 @@
+/**
+ * @Author CB
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
 
@@ -16,4 +19,3 @@ const App = () => {
 
 //Take the component's generated HTML and put it on the page (in the DOM)
 ReactDOM.render(<App />, document.querySelector('.container'));
-//CB
